@@ -1,0 +1,12 @@
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\ExcelOperate.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\ExcelOperate.pdb
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.OOXML.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.OpenXml4Net.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.OpenXmlFormats.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.xml
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.OOXML.xml
+E:\work\npoi\ExcelOperate\ExcelOperate\bin\Debug\NPOI.OpenXml4Net.xml
+E:\work\npoi\ExcelOperate\ExcelOperate\obj\Debug\ResolveAssemblyReference.cache
+E:\work\npoi\ExcelOperate\ExcelOperate\obj\Debug\ExcelOperate.dll
+E:\work\npoi\ExcelOperate\ExcelOperate\obj\Debug\ExcelOperate.pdb
